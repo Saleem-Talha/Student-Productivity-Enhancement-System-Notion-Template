@@ -8,7 +8,7 @@ Welcome to the Student Productivity Enhancement System GitHub repository! This p
 
 ## Live Demo
 
-Explore the live demo here  [Live Demo](https://vagabond-mangosteen-a5e.notion.site/Subjects-be5658ed5d874509b13cebc0525c5870?pvs=74) 
+Explore the live demo here  [Live Demo](https://vagabond-mangosteen-a5e.notion.site/Home-Page-2d95397ee65b45c5998163aa18374848) 
 
 ## Features:
 ### 1. **Streak System**
